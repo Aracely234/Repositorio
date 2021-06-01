@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Topicos Avanzados de Programacion\Carrera\Carrera\bin\Debug\Carrera.exe.config
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Topicos Avanzados de Programacion\Carrera\Carrera\bin\Debug\Carrera.exe
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Topicos Avanzados de Programacion\Carrera\Carrera\bin\Debug\Carrera.pdb
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Topicos Avanzados de Programacion\Carrera\Carrera\obj\Debug\Carrera.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Topicos Avanzados de Programacion\Carrera\Carrera\obj\Debug\Carrera.Form1.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Topicos Avanzados de Programacion\Carrera\Carrera\obj\Debug\Carrera.Properties.Resources.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Topicos Avanzados de Programacion\Carrera\Carrera\obj\Debug\Carrera.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Topicos Avanzados de Programacion\Carrera\Carrera\obj\Debug\Carrera.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Topicos Avanzados de Programacion\Carrera\Carrera\obj\Debug\Carrera.exe
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Topicos Avanzados de Programacion\Carrera\Carrera\obj\Debug\Carrera.pdb
